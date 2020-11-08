@@ -1,6 +1,6 @@
 # NotesX - Create / Generate Notes on the Go!
 
-> A Project for INT219 Project.
+> A Project for INT219 LPU.
 
 ## Build Setup
 
