@@ -6,7 +6,7 @@
     </div>
 	<div>
 		<br>
-		<router-link to="/dashboard"><h3 class="lead">Let's get started </h3></router-link>
+		<router-link to="/dashboard"><h3 class="lead">Let's get started</h3></router-link>
 	</div>
   </div>
 </template>
